@@ -1,0 +1,3 @@
+在Python2,Python3.5,Python3.6都存在的情况下而且pip被Python3.5占用,调用Python代表Python2.7,Python3代表Python3.6
+此时用下面的命令来运行pip最为恰当.
+Python -m pip install package_name
